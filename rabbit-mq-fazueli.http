@@ -1,0 +1,6 @@
+@rabbit_mq_fazueli_HostAddress = http://localhost:5230
+
+GET {{rabbit_mq_fazueli_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
